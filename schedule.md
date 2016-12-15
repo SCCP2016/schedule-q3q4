@@ -14,9 +14,9 @@
 |6   |11/17  | データベース           | SQLite                        |          | 
 |7   |11/24  | ORM                  | Bundler, Sequel, Json         | [ハンドアウト](https://hackmd.io/s/rk8Oci7Gg) |
 |8   |12/8   | WEBフレームワーク      | HTTP, Sinatra                 |          |
-|9   |12/15  | ユーザ認証             | ハッシュ, 認証, トークン         |          |
-|10  |12/22  | ツイート, フォロー      | まとめ                         |          |
-|11  |1/5    | WebAPI呼び出し        | ERB, WebAPI, セッション         |          |
+|9   |12/15  | ユーザ認証             | ハッシュ, 認証                  | [ハンドアウト](https://github.com/SCCP2016/user-auth/blob/master/auth-tutorial.ipynb) |
+|10  |12/22  | ツイート, フォロー      | まとめ                         | [ハンドアウト](https://hackmd.io/s/B1ODCt0Xe) |
+|11  |1/5    | WebAPI呼び出し        | ERB, WebAPI, セッション         | [セッション](https://hackmd.io/s/ry5ECcImg) |
 |12  |1/12   | ES2015, React        | ES2015, React                 |          |
 |13  |1/19   | Ajax, CSS            | Ajax, CSS                     |          |
 |14  |1/26   | 動的Webアプリケーション | ポーリング                      |          |
