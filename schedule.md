@@ -11,9 +11,9 @@
 |3   |10/20  | Botter              | EventListner, Botter           |          |
 |4   |10/27  | Ruby 復習            | 前期内容, オブジェクト指向         |          |
 |5   |11/10  | Ruby オブジェクト指向  | 例外, 継承, モジュール            |          |
-|6   |11/17  | データベース           | SQLite                        |          | 
+|6   |11/17  | データベース           | SQLite                        | [ハンドアウト](https://hackmd.io/s/Syrczkleg) | 
 |7   |11/24  | ORM                  | Bundler, Sequel, Json         | [ハンドアウト](https://hackmd.io/s/rk8Oci7Gg) |
-|8   |12/8   | WEBフレームワーク      | HTTP, Sinatra                 |          |
+|8   |12/8   | WEBフレームワーク      | HTTP, Sinatra                 | [ハンドアウト](http://nbviewer.jupyter.org/github/SCCP2016/sinatra-tutorial/blob/master/sinatra_tutorial.ipynb), [リポジトリ](https://github.com/SCCP2016/http-exercise) |
 |9   |12/15  | ユーザ認証             | ハッシュ, 認証                  | [ハンドアウト](https://github.com/SCCP2016/user-auth/blob/master/auth-tutorial.ipynb) |
 |10  |12/22  | ツイート, フォロー      | まとめ                         | [ハンドアウト](https://hackmd.io/s/B1ODCt0Xe) |
 |11  |1/5    | WebAPI呼び出し        | ERB, WebAPI, セッション         | [ERB](https://github.com/ababup1192/sinatra-erb-sample), [セッション](https://hackmd.io/s/ry5ECcImg) |
