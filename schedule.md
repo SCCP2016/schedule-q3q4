@@ -6,9 +6,9 @@
 
 |演習 |日付   |題名                  |内容                             |資料     |
 |:---|:-----:|:--------------------|:-------------------------------|:---------|
-|1   |10/6   | Botter              | HTML, JavaScript, Json         | [HTML](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter1/chapter1.ipynb) , [JavaScript, Json](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter2/chapter2.ipynb)|
-|2   |10/13  | Botter              | Immutable, DOM, LocalStrage    |          | 
-|3   |10/20  | Botter              | EventListner, Botter           |          |
+|1   |10/6   | Botter              | HTML, JavaScript, Json, Immutable| [HTML](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter1/chapter1.ipynb) , [JS, Immutable](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter2/chapter2.ipynb)|
+|2   |10/13  | Botter              |  DOM, Event | [DOM](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter3/chapter3.ipynb), [イベント](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter4/chapter4.ipynb)| 
+|3   |10/20  | Botter              | ローカルストレージ, Botter           | [ローカルストレージ](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter5/chapter5.ipynb), [Botter](http://nbviewer.jupyter.org/github/SCCP2016/botter-introduction/blob/master/chapter6/chapter6.ipynb) |
 |4   |10/27  | Ruby 復習            | 前期内容, オブジェクト指向         |          |
 |5   |11/10  | Ruby オブジェクト指向  | 例外, 継承, モジュール            |          |
 |6   |11/17  | データベース           | SQLite                        | [ハンドアウト](https://hackmd.io/s/Syrczkleg) | 
