@@ -17,8 +17,8 @@
 |9   |12/15  | ユーザ認証             | ハッシュ, 認証                  | [ハンドアウト](https://github.com/SCCP2016/user-auth/blob/master/auth-tutorial.ipynb) |
 |10  |12/22  | ツイート, フォロー      | まとめ                         | [ハンドアウト](https://hackmd.io/s/B1ODCt0Xe) |
 |11  |1/5    | WebAPI呼び出し        | ERB, WebAPI, セッション         | [ERB](https://github.com/ababup1192/sinatra-erb-sample), [セッション](https://hackmd.io/s/ry5ECcImg) |
-|12  |1/12   | ES2015, React        | ES2015, React                 | [ハンドアウト](https://hackmd.io/s/rJONgEVUg), [botter-react](https://github.com/SCCP2016/botter-react) |
-|13  |1/19   | Form, Ajax, CSS            | Ajax, CSS                     | [Form](https://github.com/SCCP2016/sinatra-form-sample)      |
+|12  |1/12   | モダンフロントエンド開発 | ES2015, React                 | [ハンドアウト](https://hackmd.io/s/rJONgEVUg), [botter-react](https://github.com/SCCP2016/botter-react) |
+|13  |1/19   | もっとフロントエンド | Form, Ajax, CSS                     | [Form](https://github.com/SCCP2016/sinatra-form-sample)      |
 |14  |1/26   | 動的Webアプリケーション | ポーリング                      |          |
 |15  |2/2    | よりTwitterLikeに     | 自由拡張                       |          | 
 
